@@ -18,7 +18,6 @@
 
 
 ## Who am i?
-
 Well im a programming student.
 Im currently studying to be a fullstack developper.
 --
