@@ -23,7 +23,7 @@ Im currently studying to be a fullstack developper.
 
 
 <p>
-  <a href="shorturl.at/nsyHK">
+  <a href="https://www.shorturl.at/nsyHK">
 <img src="https://www.lifepng.com/wp-content/uploads/2020/10/58967e8c0803320bf17c2fb7-1.png" width="150" href="https:\\www.human-bait.com" />
     </a>
 </p>
