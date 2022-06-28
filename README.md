@@ -23,7 +23,7 @@ Im currently studying to be a fullstack developper.
 
 
 <p>
-  <a href="https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU">
+  <a href="https://www.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU">
 <img src="https://www.lifepng.com/wp-content/uploads/2020/10/58967e8c0803320bf17c2fb7-1.png" width="150" href="https:\\www.human-bait.com" />
     </a>
 </p>
