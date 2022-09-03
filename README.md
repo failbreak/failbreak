@@ -35,9 +35,9 @@ Im currently studying to be a fullstack developper.
 ---
 
 
-## Projects
+## Repository
 * [Repository](https://github.com/failbreak?tab=repositories)
-#### Favorites
+#### Favorites Projects
 * [Repository](https://github.com/failbreak?tab=repositories)
 
 
