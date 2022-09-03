@@ -36,10 +36,9 @@ Im currently studying to be a fullstack developper.
 
 
 ## Projects
-* [HTML School project](https://github.com/failbreak/Clientside/tree/master/Clientside)
-* [KondiTal](https://github.com/failbreak/Kondi)
-* [BIBLIOTEK](https://github.com/failbreak/Biblioteket/tree/develop)
-
+* [Repository](https://github.com/failbreak?tab=repositories)
+#### Favorites
+* [Repository](https://github.com/failbreak?tab=repositories)
 
 
 
