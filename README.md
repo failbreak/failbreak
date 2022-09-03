@@ -29,9 +29,9 @@ Im currently studying to be a fullstack developper.
 </p>
 
 ## My Skills
-HMTL**
-CSS**
-C#**
+#####HMTL
+#####CSS
+#####C
 ---
 
 
