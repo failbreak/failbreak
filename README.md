@@ -31,7 +31,7 @@ Im currently studying to be a fullstack developper.
 ## My Skills
 ##### HMTL
 ##### CSS
-##### C
+##### C#
 ---
 
 
