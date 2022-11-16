@@ -1,4 +1,3 @@
-> A wise man once said: STOP COPY PASTING!
 
 
 
@@ -18,29 +17,16 @@
 
 
 ## Who am i?
-Well im a programming student.
-Im currently studying to be a fullstack developper.
+I'm FailBreak.
+Studying to become a fullstack dev.
+Though i hope in the future, that i dont have to work too much with frontend!
 
-
-<p>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<img src="https://www.lifepng.com/wp-content/uploads/2020/10/58967e8c0803320bf17c2fb7-1.png" width="150" href="https:\\www.human-bait.com" />
-    </a>
-</p>
-
-## My Skills
-##### HMTL - Intermediate
-##### CSS - Intermediate
-##### C# - Advanced
+---
+## Programming and scripting languages
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ---
 
+## Software & os i use
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-## Repository
-* [Repository](https://github.com/failbreak?tab=repositories)
-#### Favorites Projects
-* [Bibliotek](https://github.com/failbreak/Biblioteket)
-
-
-
-
-
+> Stackoverflow is nice, but stackoverflow is also toxic :/
