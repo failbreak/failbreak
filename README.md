@@ -17,8 +17,8 @@
 
 
 ## Who am i?
-I'm FailBreak.
-Studying to become a fullstack dev.
+I'm FailBreak. <br/>
+Studying to become a fullstack dev. <br/>
 Though i hope in the future, that i dont have to work too much with frontend!
 
 ---
