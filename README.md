@@ -1,9 +1,10 @@
 ## Welcome to my page!
 <p> Hello.</p>
-<p>So this is my github profile. Im a student studying to become a (Datatechnician:programming)fullstack dev.</p>
-<p>Primarily i work with c#, asp.net(razorpages), Currently learning blazor.</p>
-<p>My favorite part of working with websites is javascript.</p>
-<p>Javascript is just more fun to do trial and error.</p>
+<p>So this is my github profile. Im a Datatechnician:programming. fullstack dev.</p>
+<p>Primarily i work with c#</p>
+<p>My skills</p>
+<p>Development: C#, .NET, Blazor, JavaScript, API development, databases, and full stack development</p>
+<p>Operation: Windows Server, Linux Server, Bash, PowerShell, and Docker </p>
 
 
 ---
